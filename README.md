@@ -11,7 +11,7 @@ Algumas habilidades: PYTHON / AUTOHOTKEY / HTML / CSS / JAVASCRIPT / LINUX
 - ⚡ Fato curioso sobre mim: Valorizo muito empreendedorismo, inovação e experiência! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brenossa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/a/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brenossa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brenodantasdev/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenossa)](https://github.com/anuraghazra/github-readme-stats)
 
