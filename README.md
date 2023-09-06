@@ -7,7 +7,7 @@ Estou envolvido com a tecnologia desde a infância, sempre fui muito curioso a a
 Algumas habilidades: PYTHON / AUTOHOTKEY / HTML / CSS / JAVASCRIPT / LINUX
 
 - 🧑‍💻 Atualmente estou trabalhando com Python, Autohotkey, HTML, CSS, Javascript. 
-- 🌱 Estou aprendendo diversos conceitos sobre automações, quality assurance e front-end. 
+- 🌱 Estou aprendendo diversos conceitos sobre ia, automações, quality assurance, backend e frontend. 
 - ⚡ Fato curioso sobre mim: Valorizo muito empreendedorismo, inovação e experiência! 
 
 
