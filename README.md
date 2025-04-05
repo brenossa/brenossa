@@ -1,20 +1,18 @@
-# Quem sou eu
-🚀 Sou um engenheiro de software altamente motivado, com foco em RPA (Automação de Processos Robóticos) e em transição para o desenvolvimento back-end. Tenho experiência sólida na criação de aplicações testáveis, desde o planejamento até a implementação e testes.
+🔧 Passionate and results-driven Full-Stack Software Engineer with a strong focus on Python development and QA Automation Engineering. Proven ability to deliver scalable, testable, and high-quality software solutions in fast-paced, Agile environments.
 
-# Soft skills
-💡 Destaco-me na resolução de problemas, abordando desde desafios simples até complexos, contribuindo ativamente para a evolução da equipe com novas ideias e abordagens inovadoras.
+⚙️ Experienced in the full development lifecycle — from backend architecture and RESTful API development to automated testing and CI/CD pipelines. I bring a hybrid mindset, bridging both development and quality assurance to ensure robust, clean, and maintainable code.
 
-🔍 Sou meticuloso em relação a prazos, adotando uma abordagem detalhada e baseada em dados para planejamento. Possuo habilidades de comunicação avançadas em inglês.
+🛠️ Core Technologies & Tools:
 
-# Hard skills
-🛠️ Tenho expertise profissional em Python, utilizando ferramentas como Selenium, PyAutoGui e Pandas para automações. Além disso, domino tecnologias como Docker, Debian Linux, FastApi, Flask, MongoDB, Graylog e Kafka.
-💻 No ambiente profissional, sou familiarizado com o desenvolvimento em Python para backend, especialmente com frameworks como Django. Fora desse contexto, busco aprimorar minhas habilidades em Node.js com Express e Ruby on Rails, bem como em tecnologias front-end como JavaScript, HTML e CSS.
+- Languages & Frameworks: Python, Django, FastAPI, Flask, JavaScript (ES6+), HTML5, CSS3, Java 
+- Test Automation & QA: Selenium, Pytest, RestAssured, JUnit, Cypress, Appium, TDD, BDD 
+- DevOps & Tools: Docker, GitLab CI/CD, GitHub Actions, Linux (Debian/Ubuntu), PostgreSQL, MongoDB
 
-🧠 Mantenho-me atualizado nos princípios de desenvolvimento de software, aplicando conceitos como TDD, testes automatizados e testes unitários. Comprometido com a excelência, busco implementar princípios de arquitetura limpa e código limpo em meus projetos, garantindo soluções escaláveis e de alta qualidade.
+🌍 Bilingual in English and Portuguese, with excellent communication skills and proven success working in distributed international teams. I thrive in Agile/Scrum workflows and consistently advocate for Clean Code and Clean Architecture best practices.
 
+✨ Whether I’m building new features, designing APIs, creating automated test suites, or troubleshooting edge-case bugs — I bring creativity, precision, and a proactive attitude to every project.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenossa)](https://github.com/anuraghazra/github-readme-stats)
+📬 Actively seeking remote opportunities in full-stack development, QA automation, or Python backend roles, where I can add value and grow with global, forward-thinking teams.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brenossa)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brenodantasdev/)
